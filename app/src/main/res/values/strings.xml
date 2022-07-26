@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BMICalculators21026</string>
+    <string name="bt_math">計算</string>
+    <string name="bt_cl">クリア</string>
+    <string name="tv_kg">kg</string>
+    <string name="tv_weight">体重</string>
+    <string name="tv_cm">cm</string>
+    <string name="tv_hei">身長</string>
+    <string name="tv_sai">歳</string>
+    <string name="tv_age">年齢</string>
+
+</resources>
